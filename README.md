@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! I'm a Fullstack Developer 🤝
 
-<!--
-**Seika236/Seika236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building scalable, high-performance web applications using the TypeScript ecosystem.
 
-Here are some ideas to get you started:
+### 🛠 Технологический стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Слой | Технологии |
+| :--- | :--- |
+| **🌐 Languages** | TypeScript, JavaScript |
+| **📱 Frontend** | Next.js, React |
+| **🧠 State Management** | Redux Toolkit, Zustand, Jotai  |
+| **📡 Data Fetching** | Apollo GraphQL, TanStack Query, RTK Query  |
+| **🎨 Styling** | Tailwind CSS, SCSS, CSS Modules  |
+| **⚡ Real-time** | WebSocket, Socket.io  |
+| **🧪 Testing** | Vitest, Jest, Testing Library  |
+| **🏗 Backend** | Nest.js, Express  |
+| **💾 ODM & ORM** | Prisma, Mongoose, Redis  |
+| **📦 Storage** | MongoDB, PostgreSQL |
+
+---
+
+### 🥊 Визуальный обзор
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,scss,nestjs,express,prisma,mongodb,postgres,redis,vitest,jest" />
+</p>
+
+---
+
+### 📫 Как со мной связаться:
+* **Telegram:** [@EnEMi3]
