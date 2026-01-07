@@ -23,8 +23,3 @@ I specialize in building scalable, high-performance web applications using the T
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,scss,nestjs,express,prisma,mongodb,postgres,redis,vitest,jest" />
 </p>
-
----
-
-### 📫 Как со мной связаться:
-* **Telegram:** [@EnEMi3]
