@@ -1,6 +1,6 @@
 # Hi there! I'm a Fullstack Developer 🤝
 
-I specialize in building scalable, high-performance web applications using the TypeScript ecosystem.
+I specialize in building scalable, high-performance web applications using the TypeScript and JavaScript ecosystem.
 
 ### 🛠 Технологический стек
 
