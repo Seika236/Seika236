@@ -7,7 +7,7 @@ I specialize in building scalable, high-performance web applications using the T
 | Слой | Технологии |
 | :--- | :--- |
 | **🌐 Languages** | TypeScript, JavaScript |
-| **📱 Frontend** | Next.js, React | Vue |
+| **📱 Frontend** | Next.js, React, Vue |
 | **🧠 State Management** | Redux Toolkit, Zustand, Jotai  |
 | **📡 Data Fetching** | Apollo GraphQL, TanStack Query, RTK Query  |
 | **🎨 Styling** | Tailwind CSS, SCSS, CSS Modules  |
